@@ -1,6 +1,8 @@
 ## Welcome to FrontEnd repository. 
 
-### _You will find in this repo the following stuff: This repo has some basic project about Java-Web, 
+### _You will find in this repo the following stuff: 
+* This repo has some basic project about Java-Web
+* Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
 
 ## Have fun with my code and feel free to give me any comments
 
