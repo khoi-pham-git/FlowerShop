@@ -1,0 +1,5 @@
+<properties>
+  <sonar.projectKey>demoSona</sonar.projectKey>
+  <sonar.organization>khoi-pham-git</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
